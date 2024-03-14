@@ -1,3 +1,13 @@
+/*
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Name : lab8
+Assignment : Lab 8
+Author ( s ) : Chloe Choi, Maliha Adrita Chowdhury
+Submission : March 13, 2024
+Description : React 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+*/
+
 import React from 'react';
 
 // using JSON for styling
